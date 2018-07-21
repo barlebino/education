@@ -1,0 +1,40 @@
+"sh RunThreeReverse.sh" should return words you entered in reverse order then repeat the third word at the end
+
+-- example output start --
+
+type your first line then press enter:
+zachary
+now type your second line then press enter:
+yoselyn
+finish with a third line and press enter:
+xavier
+combined in reverse order and third repeat:
+xavieryoselynzacharyxavier
+
+-- example output end --
+
+-- example output start --
+
+type your first line then press enter:
+adfdaaads dffgg
+now type your second line then press enter:
+fffqweqeefdf12344
+finish with a third line and press enter:
+oighdfghl
+combined in reverse order and third repeat:
+oighdfghlfffqweqeefdf12344adfdaaads dffggoighdfghl
+
+-- example output end --
+
+-- example output start --
+
+type your first line then press enter:
+the first planet is mercury
+now type your second line then press enter:
+we live on planet earth
+finish with a third line and press enter:
+the sun is made of gas
+combined in reverse order and third repeat:
+the sun is made of gaswe live on planet earththe first planet is mercurythe sun is made of gas
+
+-- example output end --

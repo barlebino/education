@@ -1,0 +1,3 @@
+"sh RunPart00.sh" should return:
+
+the first part is done

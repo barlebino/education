@@ -1,0 +1,5 @@
+"sh RunThreePrint.sh" should return
+
+this is line one
+line two
+and finally three
