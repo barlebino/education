@@ -1,4 +1,4 @@
-"sh RunThreeReverse.sh" should return words you entered in reverse order then repeat the third word at the end
+"sh RunThreeReverse.sh" should return what you entered in reverse order then repeat the third input at the end
 
 -- example output start --
 

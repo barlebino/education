@@ -34,5 +34,10 @@ public class StringExample {
     bobby = "eighth ";
 
     System.out.println(s2 + " " + bobby + "line");
+
+    s2 = "ninth";
+    s2 = s2 + "line";
+
+    System.out.println(s2);
   }
 }
