@@ -1,0 +1,23 @@
+the user will give 7 inputs, then the computer will print all of those inputs in order
+only two strings are allowed
+
+--- example output start ---
+
+enter input:
+alice
+enter input:
+bob
+enter input:
+carter
+enter input:
+daniela
+enter input:
+edward
+enter input:
+falise
+enter input:
+gamma
+combined:
+alicebobcarterdanielaedwardfalisegamma
+
+--- example output end ---
