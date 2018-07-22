@@ -37,6 +37,7 @@ public class StringExample {
 
     s2 = "ninth";
     s2 = s2 + "line";
+    s2 = s2 + alice;
 
     System.out.println(s2);
   }

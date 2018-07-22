@@ -16,12 +16,38 @@ public class Seven {
     something1 = otherthing.nextLine();
     System.out.println("you said " + something1);
 
-    something0 = something1 + something0;
+    something0 = something0 + " " + something1;
 
     System.out.println("type words then press enter:");
     something1 = otherthing.nextLine();
     System.out.println("you said " + something1);
 
-    System.out.println("you said " + something1 + something0 + something1);
+    something1 = something0 + " " + something1;
+
+    System.out.println("type words then press enter:");
+    something0 = otherthing.nextLine();
+    System.out.println("you said " + something0);
+
+    something0 = something1 + " " + something0;
+
+    System.out.println("type words then press enter:");
+    something1 = otherthing.nextLine();
+    System.out.println("you said " + something1);
+
+    something1 = something0 + " " + something1;
+
+    System.out.println("type words then press enter:");
+    something0 = otherthing.nextLine();
+    System.out.println("you said " + something0);
+
+    something0 = something1 + " " + something0;
+
+    System.out.println("type words then press enter:");
+    something1 = otherthing.nextLine();
+    System.out.println("you said " + something1);
+
+    something1 = something0 + " " + something1;
+
+    System.out.println("you said " + something1);
   }
 }
