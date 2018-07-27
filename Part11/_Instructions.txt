@@ -1,0 +1,21 @@
+given a number, return the prime factorization
+
+for example, 60 = 2 x 2 x 3 x 5
+--- example output begin ---
+enter an integer:
+60
+2
+2
+3
+5
+--- example output end ---
+
+54 = 2 x 3 x 3 x 3
+--- example output begin ---
+enter an integer:
+54
+2
+3
+3
+3
+--- example output end ---
