@@ -1,0 +1,14 @@
+program takes in a number
+returns if it is a prime number or not
+
+--- example output begin ---
+enter an integer:
+7
+is prime
+--- example output end ---
+
+--- example output begin ---
+enter an integer:
+6
+is not prime
+--- example output end ---
