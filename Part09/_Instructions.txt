@@ -1,0 +1,41 @@
+user enters a number. program prints numbers starting from 0 up to that number
+if the input number is less than zero, then say its impossible
+"CountUp.sh"
+
+--- output example begin ---
+enter an integer:
+7
+0
+1
+2
+3
+4
+5
+6
+7
+--- output example end ---
+
+--- ouput example begin ---
+enter an integer:
+13
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+--- output example end ---
+
+--- output example begin ---
+enter an integer:
+-3
+entered a negative number
+--- output example end ---
