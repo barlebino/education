@@ -1,0 +1,17 @@
+enter input 5 times, output in the form of 5432112345
+only two strings
+
+--- example output begin ---
+type words then enter:
+alice
+type words then enter:
+billy
+type words then enter:
+caroline
+type words then enter:
+dylan
+type words then enter:
+elsa
+you said:
+elsadyalncarolinebillyalicealicebillycarolinedylanelsa
+--- example output end ---

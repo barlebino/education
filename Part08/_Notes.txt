@@ -1,0 +1,3 @@
+add in "if divide by zero, print this"
+nested if blocks needs to be in example
+"==" is like ">" and "<" was confusing

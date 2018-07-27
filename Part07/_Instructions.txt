@@ -1,0 +1,12 @@
+given an integer, tell how many quarters, dimes, nickels, and pennies are needed
+you have an unlimited amount of each coin
+you use the quarters first, then if cannot use a quarter, then a dime, then a nickel, then a penny
+
+--- example output start ---
+type an integer then press enter:
+117
+4 quarters
+1 dimes
+1 nickels
+2 pennies
+--- example output end ---

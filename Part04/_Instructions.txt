@@ -1,0 +1,17 @@
+enter four things, print in the order 1234321
+three strings only
+
+--- example output start ---
+
+enter input:
+alice
+enter input:
+billy
+enter input:
+claudia
+enter input:
+davide
+you said:
+alicebillyclaudiadavideclaudiabillyalice
+
+--- example output end ---

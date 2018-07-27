@@ -1,0 +1,11 @@
+Shapes.java is the file you will change, ReadNum.java is an example
+person enters the width and the height, then the program returns the area of rectangle
+
+--- example output start ---
+type a width then press enter:
+4
+type a height then press enter:
+7
+area is 28
+perimeter is 22
+--- example output end ---
